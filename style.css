@@ -1,8 +1,36 @@
-.col {
-    display: block;
-    font-style: bold;
+h1 {
+    color: #3F7A63;
+    text-align: center;
 }
 
-h1 {
-    display: block;
+html {
+    background: #F29089;
 }
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+}
+
+h3{
+    color: rosybrown;
+}
+
+td {
+    border: 2px solid #3F7A63;
+    text-align: center;
+    
+}
+
+.column {
+    border: 2px solid #3F7A63;
+    text-align: center;
+    width: 20px;
+    padding: 20px;
+    
+}
+
+table {
+    margin:0px auto;
+}
+
